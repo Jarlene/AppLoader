@@ -1,4 +1,4 @@
 # AppLoader
-this is a app loader, it can load any app for uninstall.
+这是一个app加载器，加载不需要安装的任何app
 
 
